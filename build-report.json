@@ -1,0 +1,38 @@
+{
+  "project": "Зарево · Ночная гонка",
+  "projectId": "zarevo-night-run",
+  "version": "1.0.0",
+  "engineSDK": 1,
+  "base": "./",
+  "scenes": [
+    {
+      "id": "coast",
+      "name": "Приморское шоссе",
+      "path": "scenes/coast.scene.json"
+    },
+    {
+      "id": "pass",
+      "name": "Перевал Ветров",
+      "path": "scenes/pass.scene.json"
+    },
+    {
+      "id": "city",
+      "name": "Неоновый город",
+      "path": "scenes/city.scene.json"
+    }
+  ],
+  "modules": [
+    {
+      "id": "zarevo",
+      "version": 1
+    }
+  ],
+  "assets": [],
+  "files": [
+    "assets/index-DgubM21r.js",
+    "assets/style-B2leoSyP.css",
+    "index.html"
+  ],
+  "builtAt": "2026-10-02T08:53:48.477Z",
+  "requirements": "WebGL2, ES2022, static HTTP server"
+}
