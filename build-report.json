@@ -1,7 +1,7 @@
 {
   "project": "Зарево · Ночная гонка",
   "projectId": "zarevo-night-run",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engineSDK": 1,
   "base": "./",
   "scenes": [
@@ -29,10 +29,10 @@
   ],
   "assets": [],
   "files": [
-    "assets/index-DgubM21r.js",
+    "assets/index-BUERAHhe.js",
     "assets/style-B2leoSyP.css",
     "index.html"
   ],
-  "builtAt": "2026-10-02T08:53:48.477Z",
+  "builtAt": "2026-10-02T09:11:00.069Z",
   "requirements": "WebGL2, ES2022, static HTTP server"
 }
